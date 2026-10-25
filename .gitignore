@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.tmp
+
+# Berkas laporan lokal & ringkasan
+Laporan_Praktikum_P7_JWT*
+README-ringkas.md
+laporan_assets/
